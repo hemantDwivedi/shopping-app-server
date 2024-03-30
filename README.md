@@ -22,9 +22,11 @@ git clone https://github.com/hemantDwivedi/shopping-app-server.git
 Now you good to go :)
 
 #### ER Diagram
-[image]
+![Untitled Diagram](https://github.com/hemantDwivedi/shopping-app-server/assets/96649329/bc67543d-ad36-4b5e-b874-e140e0cc8729)
+
 
 #### Class Diagram
-[image]
+![shopping-app](https://github.com/hemantDwivedi/shopping-app-server/assets/96649329/bc41dd85-dce9-481a-be87-9ae884f51ce1)
+
 
 Thank you.
